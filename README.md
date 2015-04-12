@@ -12,4 +12,6 @@ see below for the figures:
 
 <hr size=5>
 
++ Guam
+
 ![Guam ](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Guam.png)
