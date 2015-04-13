@@ -14,4 +14,46 @@ see below for the figures:
 
 + Guam
 
-![Guam ](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Guam.png)
+![Guam](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Guam.png)
+
+<hr size=5>
+
++ Yap
+
+![Yap](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Yap.png)
+
+<hr size=5>
+
++ Pohnpei
+
+![Pohnpei](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Pohnpei.png)
+
+<hr size=5>
+
++ Majuro
+
+![Majuro](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Majuro.png)
+
+<hr size=5>
+
++ Tarawa
+
+![Tarawa](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Tarawa.png)
+
+<hr size=5>
+
++ PagoPago
+
+![PagoPago](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_PagoPago.png)
+
+<hr size=5>
+
++ Rarotonga
+
+![Rarotonga](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Rarotonga.png)
+
+<hr size=5>
+
++ Moturiki
+
+![Moturiki](https://github.com/nicolasfauchereau/msla_data/blob/master/figures/MSLA_trend_plot_Moturiki.png)
